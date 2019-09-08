@@ -488,7 +488,7 @@
       "name": "Jazbay Grapes",
       "modsrc": "vanilla",
       "effects": [
-        {"name": "Fortify Magicka", "magnitude": 3.61},
+        {"name": "Magicka Fortification", "magnitude": 3.61},
         {"name": "Magic Aversion", "magnitude": 2.08},
         {"name": "Ravage Health", "magnitude": 2.78},
         {"name": "Magicka Regeneration", "magnitude": 2.77}
@@ -1038,7 +1038,7 @@
       "name": "Ironwood Nuts",
       "modsrc": "caco,cyrodiil",
       "effects": [
-        {"name": "Fortify Health", "magnitude": 4.16},
+        {"name": "Health Fortification", "magnitude": 4.16},
         {"name": "Fortify Conjuration", "magnitude": 2.91},
         {"name": "Resist Fire", "magnitude": 1.21},
         {"name": "Fatigue", "magnitude": 167.0}
