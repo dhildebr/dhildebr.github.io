@@ -16,7 +16,7 @@
     "Fortify One-Handed", "Fortify Two-Handed", "Fortify Marksman", "Fortify Block", "Fortify Heavy Armor",
     "Fortify Sneak", "Fortify Lockpicking", "Fortify Pickpocket", "Fortify Speech", "Fortify Light Armor",
     "Fortify Destruction", "Fortify Alteration", "Fortify Restoration", "Fortify Conjuration", "Fortify Illusion",
-    "Fortify Smithing", "Fortify Enchanting", "Fortify Unarmed", "Fortify Barter",
+    "Fortify Smithing", "Fortify Enchanting", "Fortify Unarmed", "Fortify Barter", "Fortify Shouts",
     "Drain Strength", "Drain Intelligence",
     
     "Resist Magic", "Resist Fire", "Resist Frost", "Resist Shock", "Shield",
@@ -28,9 +28,17 @@
     "Paralysis", "Resist Paralysis", "Cure Paralysis",
     "Speed", "Slow", "Feather",
     
-    "Invisibility", "Light",
+    "Invisibility", "Light", "Night Eye", "Etherialize",
     "Detect Life", "Detect Life Potion - Exterior",
-    "Blood", "Protect Soul"
+    "Fear", "Frenzy",
+    "Waterbreathing", "Waterwalking",
+    "Blood", "Protect Soul",
+    
+    "Discerning", "Pathfinding",
+    "Hunter's Boon", "Hircine's Sight",
+    "Prowling", "Thrill",
+    "Consumption", "Exploit Weakness",
+    "Ineptitude", "Muddle"
   ],
   
   "ingredients": [
