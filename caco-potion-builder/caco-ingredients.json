@@ -637,7 +637,7 @@
       "modsrc": "vanilla",
       "effects": [
         {"name": "Fortify Conjuration", "magnitude": 2.49},
-        {"name": "Magicka Regeneration", "magnitude": 2.22},
+        {"name": "Magicka Fortification", "magnitude": 2.22},
         {"name": "Damage Health", "magnitude": 2.09},
         {"name": "Magicka", "magnitude": 2.78}
       ]
